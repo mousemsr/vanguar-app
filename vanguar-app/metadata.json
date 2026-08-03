@@ -1,0 +1,6 @@
+{
+  "name": "VANGUAR - Barbería Medellín",
+  "description": "App de agendamiento de citas para la Barbería VANGUAR en Medellín, con temática oscura, estilo paisa y asistente AI de Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
